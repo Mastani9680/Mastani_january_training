@@ -1,7 +1,9 @@
 
 **Insurance Charges Prediction Using Supervised Machine Learning**
+
 Project Title:
      Insurance Charges Prediction Using Supervised Machine Learning
+     
  Problem Statement:
 •	The goal of this project is to predict insurance charges for individuals based on demographic and health-related features using supervised machine learning algorithms.
 
